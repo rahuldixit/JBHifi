@@ -1,0 +1,9 @@
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\JBHifi\JBHifi\bin\Debug\JBHifi.dll.config
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\JBHifi\JBHifi\bin\Debug\JBHifi.dll
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\JBHifi\JBHifi\bin\Debug\JBHifi.pdb
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\JBHifi\JBHifi\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\JBHifi\JBHifi\bin\Debug\WebDriver.dll
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\JBHifi\JBHifi\bin\Debug\WebDriver.xml
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\JBHifi\JBHifi\obj\Debug\JBHifi.dll
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\JBHifi\JBHifi\obj\Debug\JBHifi.pdb
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\JBHifi\JBHifi\obj\Debug\JBHifi.csprojResolveAssemblyReference.cache
