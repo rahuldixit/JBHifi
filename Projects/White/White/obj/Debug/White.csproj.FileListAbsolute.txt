@@ -1,0 +1,11 @@
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\White\White\bin\Debug\White.dll.config
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\White\White\bin\Debug\White.dll
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\White\White\bin\Debug\White.pdb
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\White\White\bin\Debug\Castle.Core.dll
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\White\White\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\White\White\bin\Debug\TestStack.White.dll
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\White\White\bin\Debug\Castle.Core.xml
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\White\White\bin\Debug\TestStack.White.pdb
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\White\White\bin\Debug\TestStack.White.xml
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\White\White\obj\Debug\White.dll
+C:\Users\Rahul\Documents\Visual Studio 2013\Projects\White\White\obj\Debug\White.pdb
